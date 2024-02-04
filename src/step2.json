@@ -1,0 +1,82 @@
+[
+   {
+      "filename": "Biệt Đội MARVELS",
+      "videoUrl": "https://res.cloudinary.com/dijil2yg9/video/upload/v1706580257/dp1xhqwffwmxhlanmpy9",
+      "crawl": {
+         "adult": false,
+         "backdrop_path": "/tLxjbT5ROZRwYcpNT3nfQbqkApk.jpg",
+         "genre_ids": [878, 12, 28],
+         "id": 609681,
+         "original_language": "en",
+         "original_title": "The Marvels",
+         "overview": "Carol Danvers bị vướng vào sức mạnh của Kamala Khan và Monica Rambeau, buộc họ phải hợp tác với nhau để cứu vũ trụ.",
+         "popularity": 1664.558,
+         "poster_path": "/qgotFL0XUevylN2enbc3SeT7x2m.jpg",
+         "release_date": "2023-11-08",
+         "title": "Biệt Đội Marvel",
+         "video": false,
+         "vote_average": 6.425,
+         "vote_count": 1314
+      }
+   },
+   {
+      "filename": "NAPOLEON",
+      "videoUrl": "https://res.cloudinary.com/dijil2yg9/video/upload/v1706580260/hczymcf76vb2ouhkay36",
+      "crawl": {
+         "adult": false,
+         "backdrop_path": "/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg",
+         "genre_ids": [36, 10752, 18],
+         "id": 753342,
+         "original_language": "en",
+         "original_title": "Napoleon",
+         "overview": "Bộ phim là cái nhìn nguyên bản và cá nhân về nguồn gốc của Napoléon Bonaparte và quá trình leo lên ngôi hoàng đế nhanh chóng, tàn nhẫn của ông. Câu chuyện được kể qua lăng kính của vợ ông, mối quan hệ phức tạp và thường xuyên bất ổn, cùng Josephine, một tình yêu đích thực.",
+         "popularity": 821.851,
+         "poster_path": "/gbH84r1mSTWN7bzkyJvBOfnB63E.jpg",
+         "release_date": "2023-11-22",
+         "title": "Đế Chế Napoleon",
+         "video": false,
+         "vote_average": 6.531,
+         "vote_count": 1496
+      }
+   },
+   {
+      "filename": "DRAG ME TO HELL",
+      "videoUrl": "https://res.cloudinary.com/dijil2yg9/video/upload/v1706580260/ujpj1rtarryfonzphrtf",
+      "crawl": {
+         "adult": false,
+         "backdrop_path": "/nTRVMNxlz4xNE9XnpmVphU40dJd.jpg",
+         "genre_ids": [27, 53],
+         "id": 16871,
+         "original_language": "en",
+         "original_title": "Drag Me to Hell",
+         "overview": "Lời Nguyền Ác Quỷ là một bộ phim kinh dị Mỹ năm 2019, được Sam Raimi đạo diễn với kịch bản được viết cùng em trai ông, Ivan Raimi. Alison Lohman và Justin Long lần lượt thủ 2 vai nữ và nam chính trong phim. Bộ phim xoay quanh nhân viên cho vay ngân hàng ở Los Angeles Christine Brown (Alison Lohman) từ chối cho bà Ganush (Lorna Raver) vay tiền theo chỉ đạo từ sếp của cô. Để trả thù, bà Ganush đã trù ếm Christine và biến cuộc đời cô trở thành những chuỗi ngày địa ngục.  Bộ phim đã được trình chiếu (không tranh giải) trong Liên hoan phim Cannes 2009 và được trình chiếu rộng rãi toàn nước Mỹ vào ngày 29 tháng 5 năm 2009.\"",
+         "popularity": 34.743,
+         "poster_path": "/rCJZufbtkkMR8hzkZt38nymp1Pe.jpg",
+         "release_date": "2009-05-27",
+         "title": "Lời Nguyền Ác Quỷ",
+         "video": false,
+         "vote_average": 6.414,
+         "vote_count": 3463
+      }
+   },
+   {
+      "filename": "12 Người Đàn Ông Giận Dữ",
+      "videoUrl": "https://res.cloudinary.com/dijil2yg9/video/upload/v1706580260/y8eoeir3dh3ljozsk9dt",
+      "crawl": {
+         "adult": false,
+         "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+         "genre_ids": [18],
+         "id": 389,
+         "original_language": "en",
+         "original_title": "12 Angry Men",
+         "overview": "Một thanh niên bị tình nghi giết cha ruột của mình. 12 người của bồi thẩm đoàn bắt đầu phiên làm việc của mình và tất cả hội thẩm viên đều muốn kết thúc nhanh chóng vụ án vì các chứng cứ đã quá rõ ràng. Trừ một người duy nhất. Ông không muốn sinh mạng của một con người lại có thể được quyết định chỉ trong vòng chưa đầy 10 phút.  Ông có một sự nghi ngờ riêng đối với vụ án kỳ lạ này. Và ông quyết định: tìm cách thuyết phục mọi người. Nhưng ông sẽ làm gì để giúp cậu bé kia và thuyết phục những người trong bồi thẩm đoàn đây?",
+         "popularity": 56.073,
+         "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+         "release_date": "1957-04-10",
+         "title": "12 Người Đàn Ông Giận Dữ",
+         "video": false,
+         "vote_average": 8.547,
+         "vote_count": 7986
+      }
+   }
+]
